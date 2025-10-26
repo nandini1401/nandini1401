@@ -1,3 +1,15 @@
+## ░▒▓ Aesthetic Puzzle ▓▒░
+Find all hidden pieces of me.
+
+| ░ | ▒ | ▓ |
+|---|---|---|
+| <details><summary>01</summary>💡 Fun fact: I build cool web stuff.</details> | <details><summary>02</summary>📚 Currently learning modern UI craft.</details> | <details><summary>03</summary>⚙️ I like clean architecture.</details> |
+| <details><summary>04</summary>🎧 Coding playlist enjoyer.</details> | 🎁 | <details><summary>06</summary>☕ Productivity = coffee.</details> |
+| <details><summary>07</summary>🌐 Open to collabs.</details> | <details><summary>08</summary>🎯 Always leveling up.</details> | <details><summary>09</summary>✨ Unlock the gift.</details> |
+
+> Solve the puzzle to reveal everything.
+
+
 ## 🎯 The Minimalist Quest
 
 Welcome to my GitHub profile.
