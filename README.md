@@ -1,12 +1,49 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=gradient" />
-</div>
+## 🎯 The Minimalist Quest
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+My+Profile!+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%9F" alt="Typing SVG" />
-</div>
+Welcome to my GitHub profile.
+Complete the missions to level up.
 
-<br>
+---
+
+### 🗝️ Level 1: Discover
+<details>
+<summary>Click to reveal mission</summary>
+
+Your mission:
+⭐ Star 1 repository of mine  
+📌 Screenshot it and tag me on LinkedIn/GitHub Discussions
+
+Reward:  
+`+10 XP` | Hidden badge unlocked: 🌱 _Explorer_
+
+[Claim Badge](#🌱-explorer)
+</details>
+
+---
+
+### 🎨 Level 2: Code Lover
+<details>
+<summary>Click to reveal mission</summary>
+
+Fork one project and improve anything.  
+Submit a Pull Request.
+
+Reward:  
+`+20 XP` | Badge: 🛠️ _Contributor_
+</details>
+
+---
+
+### 🧭 Badge Collection
+
+🟩 Beginner  
+🌱 Explorer  
+🛠️ Contributor  
+✨ Perfectionist (locked)  
+🔒 Secret (locked)
+
+> Keep exploring. More levels coming soon.
+
 
 ## 🙋‍♂ About Me
 
